@@ -1,0 +1,16 @@
+===Base de Dados loginphp
+
+== Estrutura da tabela usuarios
+
+|------
+|Coluna|Tipo|Nulo|Predefinido
+|------
+|//**id**//|int(11)|Não|
+|nome|varchar(50)|Não|
+|email|varchar(100)|Não|
+|senha|varchar(100)|Não|
+|nivel|int(11)|Não|
+== Extraindo dados da tabela usuarios
+
+|1|João Pedro|joaopedro@gmail.com|12345|1
+|2|Fulano da Silva|fulanosilva@gmail.com|12345|2
